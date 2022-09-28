@@ -6,7 +6,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/digifab/First%20Section/</loc>
+         <loc>https://fablabbcn.github.io/digifab/modulo_1/fablabs/</loc>
+         <lastmod>2022-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/digifab/modulo_2/fabcity/</loc>
          <lastmod>2022-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
