@@ -46,6 +46,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fablabbcn.github.io/digifab/modulo_4/circuitos/</loc>
+         <lastmod>2022-10-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fablabbcn.github.io/digifab/modulo_4/cnc/</loc>
          <lastmod>2022-10-07</lastmod>
          <changefreq>daily</changefreq>
