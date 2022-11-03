@@ -85,4 +85,14 @@
          <lastmod>2022-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://fablabbcn.github.io/digifab/modulo_5/challenge/</loc>
+         <lastmod>2022-11-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/digifab/modulo_5/recursos/</loc>
+         <lastmod>2022-11-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
